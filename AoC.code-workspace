@@ -1,22 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "AoCDay1"
-		},
-		{
-			"path": "AoCDay2"
-		},
-		{
-			"path": "AoCDay3"
-		},
-		{
-			"path": "AoCDay4"
-		},
-		{
-			"path": "AoCDay5"
-		},
-		{
-			"path": "AoCDay6"
+			"path": "."
 		}
 	],
 	"settings": {}

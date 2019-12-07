@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+	"AoCDay1",
+	"AoCDay2",
+	"AoCDay3",
+	"AoCDay4",
+	"AoCDay5",
+	"AoCDay6",
+	"AoCDay7",
+]

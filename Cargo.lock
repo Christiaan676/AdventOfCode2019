@@ -5,6 +5,10 @@ name = "aoc_day_1"
 version = "0.1.0"
 
 [[package]]
+name = "aoc_day_10"
+version = "0.1.0"
+
+[[package]]
 name = "aoc_day_2"
 version = "0.1.0"
 
@@ -33,6 +37,10 @@ dependencies = [
 
 [[package]]
 name = "aoc_day_8"
+version = "0.1.0"
+
+[[package]]
+name = "aoc_day_9"
 version = "0.1.0"
 
 [[package]]
